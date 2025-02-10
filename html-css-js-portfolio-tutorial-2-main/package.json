@@ -1,0 +1,21 @@
+{
+  "name": "html-css-js-portfolio-tutorial-2-main",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surajmohapatra49/port.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Surajmohapatra49/port/issues"
+  },
+  "homepage": "https://github.com/Surajmohapatra49/port#readme",
+  "description": ""
+}
